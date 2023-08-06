@@ -1,0 +1,4 @@
+#Mon Feb 27 12:40:36 ICT 2023
+base.0=C\:\\Users\\xuhao\\OneDrive\\Desktop\\code\\Capstone 2023\\myHostel\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
